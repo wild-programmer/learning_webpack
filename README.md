@@ -7,6 +7,8 @@
 ##待处理事件
 把flow配置到webpack
 https://www.jianshu.com/p/81b51c653301
+##进度
+tree shaking未学习
 * * *
 
 #项目文件
