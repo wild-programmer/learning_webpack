@@ -8,7 +8,7 @@
 把flow配置到webpack
 https://www.jianshu.com/p/81b51c653301
 ##进度
-tree shaking未学习
+生产环境构建未学习
 * * *
 
 #项目文件

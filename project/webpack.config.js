@@ -3,6 +3,7 @@ const HtmlWebpackPlugin = require('html-webpack-plugin');
 const CleanWebpackPlugin = require('clean-webpack-plugin');
 const webpack = require('webpack');
 module.exports = {
+    mode:'production',//找出那些需要删除的“未使用代码(dead code)”,在 bundle 中删除它们
     entry: {
         app: './src/index.js'
     },

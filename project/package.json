@@ -1,6 +1,10 @@
 {
   "name": "webpack-demo",
   "version": "1.0.0",
+  "sideEffects": [
+    "./src/some-side-effectful-file.js",
+    "*.css"
+  ],
   "description": "",
   "private": true,
   "scripts": {
@@ -8,7 +12,7 @@
     "watch": "webpack --watch",
     "start": "webpack-dev-server --hotOnly",
     "server": "node server.js",
-    "build": "webpack"
+    "build": "webpack"  
   },
   "keywords": [],
   "author": "",
