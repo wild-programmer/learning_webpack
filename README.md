@@ -8,7 +8,7 @@
 把flow配置到webpack
 https://www.jianshu.com/p/81b51c653301
 ##进度
-tree shaking未学习
+tree shaking未学习 . 修改文字本地用fetch获取的到么
 * * *
 
 #项目文件
